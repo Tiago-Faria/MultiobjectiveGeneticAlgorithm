@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1529466847 source:/home/tiago/Dropbox/FACOM/Semestre 7 de 8/Computacao evolutiva/Algoritmo Genetico Multiobjetivo/AG_Multiobjetivo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1529542506 source:/home/tiago/Dropbox/FACOM/Semestre 7 de 8/Computacao evolutiva/Algoritmo Genetico Multiobjetivo/AG_Multiobjetivo_Problema_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
